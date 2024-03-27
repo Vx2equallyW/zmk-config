@@ -24,8 +24,8 @@
       super {
          if-layers = <NF SB>;
          then-layer = <SUPER>;
-      }
-   }
+      };
+   };
 
    keymap {
         compatible = "zmk,keymap";
